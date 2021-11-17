@@ -12,7 +12,7 @@ To deploy this profile, run
 
     mkdir -p ~/.config/snakemake
     cd ~/.config/snakemake
-    cookiecutter gh:brcopeland/pbs-torque
+    cookiecutter gh:Gleeson-Lab/pbs-torque
 
 Then, you can run Snakemake with
 
